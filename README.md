@@ -1,17 +1,17 @@
 <html>
 <head></head>
 <body>
+<ul>
+
 REPOSITORIO DO CURSO - LARAVEL 5.1
 
-Etapas:
-1 - Criação de conta no github
-2 - Criação de repositório
-3 - linkando o repositório local ao remoto com:
-
-<ul>
+<p>Etapas:</p>
+<p>1 - Criação de conta no github</p>
+<p>2 - Criação de repositório</p>
+<p>3 - linkando o repositório local ao remoto com:</p>
 	<li>git init</li>
 	<li>git remote add origin LINK</li>
-3 - teste de commits e envio de commits com git push
+<p>3 - teste de commits e envio de commits com git push</p>
 	<li>git commit -a -m "msg"</li>
 	<li>git push</li>
 </ul>
