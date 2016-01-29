@@ -13,7 +13,7 @@ REPOSITORIO DO CURSO - LARAVEL 5.1
 	<li>git remote add origin LINK</li>
 </p>
 
-<p>3 - teste de commits e envio de commits com git push
+<p>4 - teste de commits e envio de commits com git push
 	<li>git commit -a -m "msg"</li>
 	<li>git push</li>
 </p>
