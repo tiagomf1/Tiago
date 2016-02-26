@@ -17,6 +17,11 @@ REPOSITORIO DO CURSO - LARAVEL 5.1
 	<li>git commit -a -m "msg"</li>
 	<li>git push</li>
 </p>
+
+<p>
+Criada tag 0.1.0
+</p>
+
 </ul>
 <p>
 Website <a href="http://tiagomorais.net84.net" target="_blank">Tiagomorais.net84.net</a>
