@@ -19,7 +19,7 @@ REPOSITORIO DO CURSO - LARAVEL 5.1
 </p>
 
 <p>
-Criada tag 0.1.0
+Criada tag 0.1.1
 </p>
 
 </ul>
